@@ -9,13 +9,13 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 💻 Tecnologias utilizadas no projeto
 
     ChatGPT
-    MidJourney
+    Bing Imagine Creator
     PowerPoint
 
 ✨ Features
 
     Conteúdo gerado via ChatGPT
-    Imagens geradas via MidJourney
+    Imagens geradas via Bing Imagine Creator
 
 🛠️ Instruções de execução
 
