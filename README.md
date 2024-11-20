@@ -11,3 +11,11 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
     ChatGPT
     MidJourney
     PowerPoint
+
+✨ Features
+
+    Conteúdo gerado via ChatGPT
+    Imagens geradas via MidJourney
+
+🛠️ Instruções de execução
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
